@@ -93,5 +93,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to reach out if you have questions or suggestions. Happy coding!
+Feel free to reach out if you have questions or suggestions.
 
